@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class ComputerProjectAssignment {
+public class ComputerRun {
 	public static void main(String[] args) {
 	    int N = 1000;
 	    
